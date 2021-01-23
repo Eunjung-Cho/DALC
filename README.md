@@ -1,7 +1,7 @@
 # kaggle_study
 ## EDA
 ### Titanic
-#### 2021-01-23
+#### 2021-01-23 : ddwu-bigdata-1week
 
 **<새로 알게 된 것>** 
 **EDA 전체적인 과정**
