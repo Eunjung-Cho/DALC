@@ -1,4 +1,4 @@
-# ddwu_bigdata_study <ddwu_bidata 소모임 빅데이터 스터디 운영>
+# <ddwu_bidata 소모임 빅데이터 스터디 운영>
 ---
 ## 진행방법
 1. 그 주에 진행될 공부주제 알림 (ex: EDA, 크롤링, 등등)
