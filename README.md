@@ -34,7 +34,7 @@ kaggle 데이터 셋 및 기타 다른 인공지능 대회 데이터셋, 공공�
 ### <주제 목록>
 -	이미지 분류
 Ex:
-개 고양이 이미지 분류 
+개 고양이 이미지 분류:
   1주 : CNN/ MobileNetV2 / Segmentation / Classification 등 각자 이론 맡아서 발표 
   
   2주: https://www.kaggle.com/c/dogs-vs-cats/notebooks 여기에서 각자 다른 노트북을 필사하고 어떤 과정으로 분류되는지 설명
