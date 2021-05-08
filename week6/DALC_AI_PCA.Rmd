@@ -1,0 +1,43 @@
+---
+title: "DALC_AI_PCA"
+output: html_document
+---
+
+```{r}
+str(state.x77)
+```
+
+```{r}
+head(state.x77)
+```
+
+
+```{r}
+pca <-prcomp(state.x77, scale = TRUE)
+```
+
+
+```{r}
+plot(pca, type = "l", pch = 19, lwd = 2, col = "red", main = "scree plot")
+```
+
+```{r}
+round(pca$rotation, 3)
+```
+
+```{r}
+round(pca$rotation, 3)
+```
+
+```{r}
+round(pca$x, 3)
+```
+
+
+```{r}
+round(pca$x[, c(1,2)], 3)
+```
+
+```{r}
+biplot(pca, cex=c(0.5, 0.75), main = "Biplot")
+```
